@@ -1,0 +1,33 @@
+.header{
+    background: black;
+}
+.header__inner{
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+}
+.header__logo{
+    text-decoration: none;
+
+    color: white;
+    font-weight: bold;
+    font-size: 24px;   
+}
+
+.quiz__content{
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+.question{
+    background: black;
+    border-radius: 3px;
+    margin: 0 auto;
+    width: 550px;
+
+    padding: 10px 20px;
+}
+.question__text{
+    color: white;
+    text-align: left;
+}
